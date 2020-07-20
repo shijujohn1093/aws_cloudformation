@@ -1,0 +1,1 @@
+aws cloudformation update-stack --stack-name myfirsttest --template-body file://scripts/testcfn.yml --region=us-west-2
