@@ -1,4 +1,4 @@
 "# aws_cloudformation" 
 
 
-> update.bat myfirsttest  network.yml 
+> update.bat ourdemoinfra network.yml network-params.json
