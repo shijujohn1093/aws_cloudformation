@@ -1,4 +1,7 @@
 "# aws_cloudformation" 
 
+# To create 
+> create.bat demoinfra-1
 
-> update.bat ourdemoinfra network.yml network-params.json
+# To updae
+> update.bat demoinfra-1
